@@ -18,3 +18,4 @@ I love writting what I've done and I've learned along doing my projects - You ca
 📈 Github Stats
 
 
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
