@@ -21,7 +21,7 @@ Other
 
 
 ✏️ My Blog
-I love writting what I've done and I've learned along doing my projects - You can find my blogs on here: Daniel Truong's blog
+I love writting what I've done and I've learned along doing my projects - You can find my blogs on here:
 
 📈 Github Stats
 
